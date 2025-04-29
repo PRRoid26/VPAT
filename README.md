@@ -1,25 +1,25 @@
 # VPAT
-#VAPT Cheatsheet
-#Reconnaissance 
-#EtterCap
-#Find IP
-#Nmap
-#Open Ports
-#Version of Open Ports
-#VM name 
-#Exploit
-#Metasploit
-#Find the best script for attack and exploit 
-#use ports found from Nmap command to plan the exploit
-#Commands list
-#msfconsole
-#search <port name with version>
-#use <index of attack>
-#show options (to see what all needs to be set)
-#set LHOST RHOST (if req)
-#set payload (again if required)
-#run
-#List of unprotected ports
+VAPT Cheatsheet
+Reconnaissance 
+EtterCap
+Find IP
+Nmap
+Open Ports
+Version of Open Ports
+VM name 
+Exploit
+Metasploit
+Find the best script for attack and exploit 
+use ports found from Nmap command to plan the exploit
+Commands list
+msfconsole
+search <port name with version>
+use <index of attack>
+show options (to see what all needs to be set)
+set LHOST RHOST (if req)
+set payload (again if required)
+run
+List of unprotected ports
 20/21 (FTP) 
 23 (Telnet) 
 25 (SMTP) 
